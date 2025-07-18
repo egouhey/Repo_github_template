@@ -7,7 +7,7 @@
 </div>
 
 
-[👨‍💻 Documentation](docs/) • [🚀 User documentation](docs/) •  [📚 Bibliography](docs/bibliography) • [👽 Source files](src/)
+[👨‍💻 Documentation](docs/) • [🚀 User documentation](docs/user) •  [📚 Bibliography](docs/bibliography) • [👽 Source files](src/)
   
 ## 📄 This project in short
 
